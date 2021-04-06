@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/maxim/static/css/main.36332b50.chunk.css",
+    "main.js": "/maxim/static/js/main.6156fcfa.chunk.js",
+    "main.js.map": "/maxim/static/js/main.6156fcfa.chunk.js.map",
+    "runtime-main.js": "/maxim/static/js/runtime-main.022d8437.js",
+    "runtime-main.js.map": "/maxim/static/js/runtime-main.022d8437.js.map",
+    "static/js/2.daddd499.chunk.js": "/maxim/static/js/2.daddd499.chunk.js",
+    "static/js/2.daddd499.chunk.js.map": "/maxim/static/js/2.daddd499.chunk.js.map",
+    "static/js/3.9f430433.chunk.js": "/maxim/static/js/3.9f430433.chunk.js",
+    "static/js/3.9f430433.chunk.js.map": "/maxim/static/js/3.9f430433.chunk.js.map",
+    "index.html": "/maxim/index.html",
+    "static/css/main.36332b50.chunk.css.map": "/maxim/static/css/main.36332b50.chunk.css.map",
+    "static/js/2.daddd499.chunk.js.LICENSE.txt": "/maxim/static/js/2.daddd499.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/maxim/static/media/OpenSans-Regular.1b0809d5.ttf",
+    "static/media/about.44c9a140.png": "/maxim/static/media/about.44c9a140.png",
+    "static/media/dota1.7de0aceb.png": "/maxim/static/media/dota1.7de0aceb.png",
+    "static/media/dota2.405bbffa.png": "/maxim/static/media/dota2.405bbffa.png",
+    "static/media/elec1.b191a21f.png": "/maxim/static/media/elec1.b191a21f.png",
+    "static/media/elec2.4f15ffb9.png": "/maxim/static/media/elec2.4f15ffb9.png",
+    "static/media/homestat1.c94f5e06.png": "/maxim/static/media/homestat1.c94f5e06.png",
+    "static/media/homestat2.ad46da34.png": "/maxim/static/media/homestat2.ad46da34.png",
+    "static/media/homestat3.a1fcc674.png": "/maxim/static/media/homestat3.a1fcc674.png",
+    "static/media/mainProc.57a7e489.png": "/maxim/static/media/mainProc.57a7e489.png",
+    "static/media/photoHome.75e67783.png": "/maxim/static/media/photoHome.75e67783.png",
+    "static/media/proc1.503a7cba.png": "/maxim/static/media/proc1.503a7cba.png",
+    "static/media/proc2.cf759dfe.png": "/maxim/static/media/proc2.cf759dfe.png",
+    "static/media/proc3.63b40e49.png": "/maxim/static/media/proc3.63b40e49.png",
+    "static/media/psy1.03259cd8.png": "/maxim/static/media/psy1.03259cd8.png",
+    "static/media/psy2.cc14ab67.png": "/maxim/static/media/psy2.cc14ab67.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.022d8437.js",
+    "static/js/2.daddd499.chunk.js",
+    "static/css/main.36332b50.chunk.css",
+    "static/js/main.6156fcfa.chunk.js"
+  ]
+}
